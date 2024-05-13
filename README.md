@@ -61,4 +61,4 @@ Assignment 3 focuses on game playing strategies, particularly the implementation
 For detailed instructions and setup guidelines, please refer to the [Assignment 3 README](assignment-3/README.md).
 
 
-GPT used for the creating of this file
+GPT used for the creation of this file
