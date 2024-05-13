@@ -25,7 +25,7 @@ For this assignment, I dived into the fundamentals of pathfinding algorithms, sp
 - Implemented BFS, DFS, and IDDFS algorithms for grid-world pathfinding.
 - Tested the algorithms on different grid configurations and analyzed their performance.
 
-For detailed instructions and setup guidelines, you can check out the [Assignment 1 README](assignment-1/README.md).
+For detailed instructions and setup guidelines, you can check out the [BFS/DFS/IDDFS Grid-World Path-Finding README](1-%20BFS-DFS-IDDFS%20Grid-World%20Path-Finding/README.md).
 
 ---
 
@@ -41,7 +41,7 @@ This assignment delved into the A* pathfinding algorithm, a widely-used method f
 - Integrated various heuristic options to evaluate path costs and guide the search process.
 - Conducted thorough testing and performance analysis to assess the algorithm's effectiveness in different scenarios.
 
-For comprehensive instructions and setup details, refer to the [Assignment 2 README](assignment-2/README.md).
+For comprehensive instructions and setup details, refer to the [A* Pathfinding README](2-%20A*%20Pathfinding/README.md).
 
 ---
 
@@ -59,7 +59,7 @@ Assignment 3 focuses on game playing strategies, particularly the implementation
 - Designed the player to evaluate game states, predict opponent moves, and select optimal actions.
 - Incorporated iterative deepening search to progressively explore the game tree and optimize decision-making.
 
-For detailed instructions and setup guidelines, please refer to the [Assignment 3 README](assignment-3/README.md).
+For detailed instructions and setup guidelines, please refer to the [Connect 4 with Alpha-Beta Pruning README](3-%20Connect%204%20with%20Alpha-Beta%20Pruning/README.md).
 
 ## Assignment 4: Genetic Algorithm for Sudoku
 
@@ -74,7 +74,7 @@ In Assignment 4, we ventured into the realm of Genetic Algorithms (GAs) to solve
 - Incorporated crossover techniques including subgrid crossover and row-column crossover to generate diverse offspring.
 - Utilized mutation operations to introduce diversity and prevent premature convergence.
 
-For detailed instructions and setup guidelines, please refer to the [Assignment 4 README](assignment-4/README.md).
+For detailed instructions and setup guidelines, please refer to the [Genetic Algorithm for Sudoku README](4-%20Genetic%20Algorithm%20for%20Sudoku/README.md).
 
 
 ## Assignment 5: Reinforcement Learning (RL) Algorithm
@@ -90,7 +90,7 @@ In Assignment 5, we delved into the fascinating domain of Reinforcement Learning
 - Incorporated exploration-exploitation strategies such as epsilon-greedy to balance between learning and exploiting learned knowledge.
 - Developed mechanisms to update the agent's policy based on learned Q-values and environmental feedback.
 
-For comprehensive instructions and setup guidelines, please refer to the [Assignment 5 README](assignment-5/README.md).
+For comprehensive instructions and setup guidelines, please refer to the [Reinforcement Learning (RL) Algorithm, Q Learning README](5-%20Reinforcement%20Learning%20(RL)%20Algorithm/README.md).
 
 
 
