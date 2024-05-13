@@ -8,6 +8,8 @@ Special thanks to Professor Dave Churchill for his outstanding guidance and inst
 
 1. [BFS/DFS/IDDFS Grid-World Path-Finding](#assignment-1-bfsdfsiddfs-grid-world-path-finding)
 2. [A* Pathfinding](#assignment-2-a-pathfinding)
+3. [Connect 4 with Alpha-Beta Pruning](#assignment-3-connect-4-with-alpha-beta-pruning)
+
 
 ---
 
@@ -43,5 +45,20 @@ For comprehensive instructions and setup details, refer to the [Assignment 2 REA
 ---
 
 These assignments provided me with invaluable insights into essential AI algorithms and techniques, significantly enhancing my proficiency in artificial intelligence concepts and applications. 
+
+## Assignment 3: Connect 4 with Alpha-Beta Pruning
+
+### Description:
+
+Assignment 3 focuses on game playing strategies, particularly the implementation of a player capable of making intelligent decisions in a game environment. The primary algorithm employed in this assignment is Alpha-Beta Pruning, a sophisticated technique for optimizing the search process in game trees. The player is designed to evaluate game states, predict opponent moves, and select optimal actions using iterative deepening search with Alpha-Beta Pruning.
+
+### Instructions:
+
+- Implemented a game-playing player using Alpha-Beta Pruning algorithm.
+- Designed the player to evaluate game states, predict opponent moves, and select optimal actions.
+- Incorporated iterative deepening search to progressively explore the game tree and optimize decision-making.
+
+For detailed instructions and setup guidelines, please refer to the [Assignment 3 README](assignment-3/README.md).
+
 
 GPT used for the creating of this file
