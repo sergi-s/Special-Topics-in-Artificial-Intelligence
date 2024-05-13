@@ -1,4 +1,4 @@
-# COMP6980 - Assignment 2
+# Assignment 2
 
 ## Overview
 This code implements the A* algorithm for pathfinding, with support for both unidirectional and bidirectional search modes. It includes multiple heuristic options such as 8-directional Manhattan, 4-directional Manhattan, and 2D Euclidean distance. 

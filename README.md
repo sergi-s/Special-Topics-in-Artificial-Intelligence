@@ -1,6 +1,6 @@
 # Introduction to AI Assignments
 
-Hey there! Welcome to my README for the assignments in the Computer Science 6980 Special Topics in Artificial Intelligence course. Below, I've provided comprehensive descriptions of each assignment along with links to their respective README files for demos.
+Hey there! Welcome to my README for the assignments in the Computer Science, Special Topics in Artificial Intelligence course. Below, I've provided comprehensive descriptions of each assignment along with links to their respective README files for demos.
 
 Special thanks to Professor Dave Churchill for his outstanding guidance and instruction throughout the course.
 
