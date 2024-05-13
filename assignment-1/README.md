@@ -70,29 +70,29 @@ The algorithm is encapsulated within the `Search_Student` class, designed to han
 ### Breadth-First Search (BFS)
 
 #### Image: BFS Visualization
-![BFS Visualization](/COMP6980_A1_srizkallah/media/BFS.png)
+![BFS Visualization](/assignment-1/media/BFS.png)
 
 #### Video: BFS Algorithm in Action
-[![BFS Algorithm](/COMP6980_A1_srizkallah//media/BFS.png)](https://youtu.be/RkOh7328P44)
+[![BFS Algorithm](/assignment-1//media/BFS.png)](https://youtu.be/RkOh7328P44)
 
 
 
 ### Depth-First Search (DFS)
 
 #### Image: DFS Visualization
-![DFS Visualization](/COMP6980_A1_srizkallah//media/DFS.png)
+![DFS Visualization](/assignment-1//media/DFS.png)
 
 #### Video: DFS Algorithm in Action
-[![DFS Algorithm](/COMP6980_A1_srizkallah//media/DFS.png)](https://youtu.be/a4rH3vMH-LA)
+[![DFS Algorithm](/assignment-1//media/DFS.png)](https://youtu.be/a4rH3vMH-LA)
 
 
 ### Iterative Deepening Depth-First Search (ID-DFS)
 
 #### Image: ID-DFS Visualization
-![ID-DFS Visualization](/COMP6980_A1_srizkallah//media/DFS.png)
+![ID-DFS Visualization](/assignment-1//media/DFS.png)
 
 #### Video: ID-DFS Algorithm in Action
-[![ID-DFS Algorithm](/COMP6980_A1_srizkallah//media/ID-DFS.png)](https://youtu.be/GvyiwZuNRco)
+[![ID-DFS Algorithm](/assignment-1//media/ID-DFS.png)](https://youtu.be/GvyiwZuNRco)
 
 
 These main ideas collectively form a basic framework for a grid-based search algorithm that can be applied to various problems. The specific search strategy (BFS, DFS, IDDFS) and the grid-related details are crucial aspects of the algorithm's functionality.
