@@ -61,9 +61,6 @@ Assignment 3 focuses on game playing strategies, particularly the implementation
 
 For detailed instructions and setup guidelines, please refer to the [Assignment 3 README](assignment-3/README.md).
 
-
-GPT used for the creation of this file
-
 ## Assignment 4: Genetic Algorithm for Sudoku
 
 ### Description:
@@ -94,3 +91,7 @@ In Assignment 5, we delved into the fascinating domain of Reinforcement Learning
 - Developed mechanisms to update the agent's policy based on learned Q-values and environmental feedback.
 
 For comprehensive instructions and setup guidelines, please refer to the [Assignment 5 README](assignment-5/README.md).
+
+
+
+GPT used for the creation of this file
