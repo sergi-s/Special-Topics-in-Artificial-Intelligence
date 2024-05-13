@@ -10,7 +10,7 @@ Special thanks to Professor Dave Churchill for his outstanding guidance and inst
 2. [A* Pathfinding](#assignment-2-a-pathfinding)
 3. [Connect 4 with Alpha-Beta Pruning](#assignment-3-connect-4-with-alpha-beta-pruning)
 4. [Genetic Algorithm for Sudoku](#assignment-4-genetic-algorithm-for-sudoku)
-
+5. [Reinforcement Learning (RL) Algorithm, Q Learning](#assignment-5-reinforcement-learning-rl-algorithm)
 
 ---
 
@@ -79,3 +79,18 @@ In Assignment 4, we ventured into the realm of Genetic Algorithms (GAs) to solve
 
 For detailed instructions and setup guidelines, please refer to the [Assignment 4 README](assignment-4/README.md).
 
+
+## Assignment 5: Reinforcement Learning (RL) Algorithm
+
+### Description:
+
+In Assignment 5, we delved into the fascinating domain of Reinforcement Learning (RL) algorithms to develop intelligent agents capable of learning and making decisions in uncertain environments. This assignment tasked us with implementing an RL algorithm that learns from interactions with an environment to maximize cumulative rewards over time. By utilizing concepts such as Q-learning and policy iteration, our goal was to design an agent that can navigate through complex environments, learn optimal strategies, and adapt its behavior based on feedback from the environment.
+
+### Instructions:
+
+- Implemented a reinforcement learning algorithm to enable agents to learn from experience and optimize decision-making.
+- Utilized Q-learning techniques to estimate the value of state-action pairs and update the agent's policy.
+- Incorporated exploration-exploitation strategies such as epsilon-greedy to balance between learning and exploiting learned knowledge.
+- Developed mechanisms to update the agent's policy based on learned Q-values and environmental feedback.
+
+For comprehensive instructions and setup guidelines, please refer to the [Assignment 5 README](assignment-5/README.md).

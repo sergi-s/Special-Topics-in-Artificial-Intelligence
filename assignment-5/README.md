@@ -1,6 +1,6 @@
 # Reinforcement Learning (RL) Algorithm
 
-In this assignment implements a Reinforcement Learning (RL) algorithm for solving problems in a specified environment. Here are the key points about this code:
+In this assignment we implemented a Reinforcement Learning (RL) algorithm for solving problems in a specified environment. Here are the key points about this code:
 
 - **Environment:** The RL algorithm interacts with an environment, represented by a grid or map. The environment provides information about the current state, possible actions, rewards, and transitions.
 
@@ -23,6 +23,9 @@ In this assignment implements a Reinforcement Learning (RL) algorithm for solvin
   - The algorithm's core functionality lies in the `learningIteration` method, where Q-values are updated based on observed rewards and transitions.
   - The policy is updated dynamically to balance exploration and exploitation.
   - Parameters such as learning rate, discount factor, and epsilon play crucial roles in determining the algorithm's performance and convergence.
+
+- **Representation of Grids:** In the grid-based environment, each cell represents a state, and the lines within the cells represent the probability of taking each action (direction) from that state.
+
 
 ## Demo Video
 
