@@ -9,6 +9,7 @@ Special thanks to Professor Dave Churchill for his outstanding guidance and inst
 1. [BFS/DFS/IDDFS Grid-World Path-Finding](#assignment-1-bfsdfsiddfs-grid-world-path-finding)
 2. [A* Pathfinding](#assignment-2-a-pathfinding)
 3. [Connect 4 with Alpha-Beta Pruning](#assignment-3-connect-4-with-alpha-beta-pruning)
+4. [Genetic Algorithm for Sudoku](#assignment-4-genetic-algorithm-for-sudoku)
 
 
 ---
@@ -62,3 +63,19 @@ For detailed instructions and setup guidelines, please refer to the [Assignment 
 
 
 GPT used for the creation of this file
+
+## Assignment 4: Genetic Algorithm for Sudoku
+
+### Description:
+
+In Assignment 4, we ventured into the realm of Genetic Algorithms (GAs) to solve Sudoku puzzles efficiently. The task involved designing and implementing a genetic algorithm capable of evolving solutions to Sudoku puzzles. This algorithm leverages concepts such as selection, crossover, and mutation to iteratively improve candidate solutions within a population. By employing various strategies such as subgrid crossover and row-column crossover, we aimed to efficiently explore the solution space and converge towards valid Sudoku configurations.
+
+### Instructions:
+
+- Developed a genetic algorithm for solving Sudoku puzzles.
+- Implemented selection mechanisms like roulette wheel selection.
+- Incorporated crossover techniques including subgrid crossover and row-column crossover to generate diverse offspring.
+- Utilized mutation operations to introduce diversity and prevent premature convergence.
+
+For detailed instructions and setup guidelines, please refer to the [Assignment 4 README](assignment-4/README.md).
+
