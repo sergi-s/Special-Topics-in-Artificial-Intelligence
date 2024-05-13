@@ -1,0 +1,11 @@
+.vscode
+PascalPons
+
+
+*.js
+*.html
+*.css
+
+LICENSE.txt
+
+*MARKS.txt
