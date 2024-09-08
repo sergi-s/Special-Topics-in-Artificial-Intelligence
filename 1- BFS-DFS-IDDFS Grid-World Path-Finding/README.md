@@ -70,29 +70,29 @@ The algorithm is encapsulated within the `Search_Student` class, designed to han
 ### Breadth-First Search (BFS)
 
 #### Image: BFS Visualization
-![BFS Visualization](/assignment-1/media/BFS.png)
+![BFS Visualization](/media/BFS.png)
 
 #### Video: BFS Algorithm in Action
-[![BFS Algorithm](/assignment-1//media/BFS.png)](https://youtu.be/RkOh7328P44)
+[![BFS Algorithm](/media/BFS.png)](https://youtu.be/RkOh7328P44)
 
 
 
 ### Depth-First Search (DFS)
 
 #### Image: DFS Visualization
-![DFS Visualization](/assignment-1//media/DFS.png)
+![DFS Visualization](/media/DFS.png)
 
 #### Video: DFS Algorithm in Action
-[![DFS Algorithm](/assignment-1//media/DFS.png)](https://youtu.be/a4rH3vMH-LA)
+[![DFS Algorithm](/media/DFS.png)](https://youtu.be/a4rH3vMH-LA)
 
 
 ### Iterative Deepening Depth-First Search (ID-DFS)
 
 #### Image: ID-DFS Visualization
-![ID-DFS Visualization](/assignment-1//media/DFS.png)
+![ID-DFS Visualization](/media/DFS.png)
 
 #### Video: ID-DFS Algorithm in Action
-[![ID-DFS Algorithm](/assignment-1//media/ID-DFS.png)](https://youtu.be/GvyiwZuNRco)
+[![ID-DFS Algorithm](/media/ID-DFS.png)](https://youtu.be/GvyiwZuNRco)
 
 
 These main ideas collectively form a basic framework for a grid-based search algorithm that can be applied to various problems. The specific search strategy (BFS, DFS, IDDFS) and the grid-related details are crucial aspects of the algorithm's functionality.
